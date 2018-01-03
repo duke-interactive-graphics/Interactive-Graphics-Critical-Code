@@ -58,7 +58,3 @@ For our "Hello World" assignment in p5.js, we'll be creating some basic visual o
 
   * Task: Follow the "Hello World" tutorials and create your first p5.js sketch. Push it to Github and use GitHub Pages to make it visible. Email me the link.
 
-# Blog Post 
-In class we explored many different ways in which artists, designers, entrepreneurs, and engineers engaged creatively with code. Find some more (at least one) examples of a creative use of code.
-
-  * Task: Write a brief blog post about the artist and their work. What got you excited about this project. Could you implement a similar project throughout this class? How long did this project take to develop. Engage critically with the work. Who is the work for and who is benefiting from it. How/where is the work being displayed, who has access to it? 

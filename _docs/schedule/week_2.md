@@ -4,12 +4,10 @@ category: Schedule
 order: 2
 ---
 
-# Intro
-A "Hello, World!" program is a computer program that outputs or displays "Hello, World!" to a user. Being a very simple program in most programming languages, it is often used to illustrate the basic syntax of a programming language for a working program.[1] It is often the very first program people write when they are new to a language.
-
 # Code Assignment
+We should now understand how to add primitive shapes to the canvas and give them colors. We should be able to place them on the canvas grid and change their width and height. Next we'll be learning how to add other elements to the canvas such as text and images. These elements follow a similar pattern to primitive shapes. 
 
-# Blog Post 
-In class we explored many different ways in which artists, designers, entrepreneurs, and engineers engaged creatively with code. Find some more (at least one) examples of a creative use of code.
+* Task: Add some text and images to the canvas. Play with color, shape, images and text elements to create a visually striking piece. Layer elements, and begin conceptualizing a project that you might like to pursue later in the semester. Can we sketch this project with static elements from what we have learned so far?
 
-  * Task: Write a brief blog post about the artist and their work. What got you excited about this project. Could you implement a similar project throughout this class? How long did this project take to develop. Engage critically with the work. Who is the work for and who is benefiting from it. How/where is the work being displayed, who has access to it? 
+# Blog Post
+* Task: Document the piece that you created. How is this work leading to future projects. What concepts are you thinking about pursuing and how are those concepts reflected in this static piece.
