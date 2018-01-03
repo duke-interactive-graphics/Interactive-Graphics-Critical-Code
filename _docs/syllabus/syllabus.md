@@ -62,11 +62,12 @@ Required Media
 ## Evaluation
 
 | ------------- |:--------:| 
-| Project 1:    | 20%     | 
-| Project 2:    | 30%     |  
-| Project 3:    | 30%     | 
-| Project 4:    | 30%     |   
-| Participation:| 20%     |  
+| Project 1:    | 10%     | 
+| Project 2:    | 20%     |  
+| Project 3:    | 20%     | 
+| Project 4:    | 20%     |   
+| Final Project:| 20%     | 
+| Participation:| 10%     |  
 
 ## EVALUATION RUBRIC
 
