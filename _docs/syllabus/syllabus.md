@@ -19,9 +19,8 @@ Smith Warehouse Bay 12
 Introduction to interactive graphics programming for artists. Explores object-oriented programming via the Processing programming environment as well as historical and theoretical appreciation of interactivity and computer graphics as artistic media. Combines discussions of key concepts from the readings with hands-on Processing projects and critiques. No previous programming experience or Instructor: Staff
 
 ## COURSE DESCRIPTION
-As a Designer or artist, why would I want to write software? Software influences all aspects of contemporary visual culture. Many established artists have integrated software into their process. Many prominent architects and designers not only use software, they commission custom software to help them realize their unique ideas. The creators of every innovative video game and Hollywood animated film write custom software to enhance their work. 
-Having an understanding about software allows you to think beyond the aesthetic prerequisites that come with existing digital tools (i.e. Adobe Creative Suite). It encourages you to use the computer as the generic tool maker that it is and promotes a way of thought that fosters a deeper engagement with the digital. 
-This class aspires to lay the foundation for a deeper understanding of the digital, encouraging the use of the computer as a tool maker and showing its aesthetic and conceptual potentials in the broad range of the arts. It aspires to spark an enthusiasm that will result in a lasting engagement with the subject.
+Throughout this course, we will engage with the intersections of critical software development, art and design practice, and contemporary visual culture. We will leverage web based platforms a as canvas critique contemporary web culture and interfaces. This class aspires to lay the foundation for a deeper understanding of the digital, encouraging the use of the computer as a tool maker and showing its aesthetic and conceptual potentials in the broad range of the arts. 
+
 
 ## LEARNING OUTCOMES
 After completing this course, students will be able to effectively:
