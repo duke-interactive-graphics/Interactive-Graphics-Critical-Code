@@ -4,15 +4,11 @@ category: Syllabus
 order: 1
 ---
 
-ISS 294L - Interactive Graphics: Critical Code, Spring 2018
-
-Duke University Computational Media Arts and Cultures
-
-Instructor Matthew Kenney (office hour 243A Bay 12, Tuesday, 2pm)
-
-Tuesday and Thursday, 9:00 pm - 11:50 pm
-
-Smith Warehouse Bay 12
+ISS 294L - Interactive Graphics: Critical Code, Spring 2018<br>
+Duke University Computational Media Arts and Cultures<br>
+Instructor Matthew Kenney (office hour 243A Bay 12, Tuesday, 2pm)<br>
+Tuesday and Thursday, 9:00 pm - 11:50 pm<br>
+Smith Warehouse Bay 12<br>
 
 
 ## OVERVIEW
@@ -93,6 +89,8 @@ rare.
 
 #### F - Failed
 This grade indicates a failure to participate and/or incomplete assignments
+
+## READINGS
 
 <img src="{{ "/images/books/gettingstarted.png " | prepend: site.baseurl }}{{ img }}" alt="" width="20%">
 
