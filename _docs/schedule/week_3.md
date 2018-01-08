@@ -12,5 +12,5 @@ We should now have a good sense of how to add primitive shapes and colors to the
 # Blog Post
 This is the conclusion of the "Hello World" section of the semester. We should have learned a little about environment setup, Github, and coding in P5js.
 
-* Task: How did it feel? Are there any parts that were confusing or that you particularly struggled with? Are there any areas that moved to slowly for you? What is you plan of attack moving forward to overcome these obstacles.
+* Task: How did it feel? Are there any parts that were confusing or that you particularly struggled with? Are there any areas that moved too slowly for you? What is your plan of attack moving forward to overcome these obstacles?
 

@@ -15,7 +15,7 @@ Smith Warehouse Bay 12<br>
 Introduction to interactive graphics programming for artists. Explores object-oriented programming via the Processing programming environment as well as historical and theoretical appreciation of interactivity and computer graphics as artistic media. Combines discussions of key concepts from the readings with hands-on Processing projects and critiques. No previous programming experience or Instructor: Staff
 
 ## COURSE DESCRIPTION
-Throughout this course, we will engage with the intersections of critical software development, art and design practice, and contemporary visual culture. We will leverage web based platforms a as canvas critique contemporary web culture and interfaces. This class aspires to lay the foundation for a deeper understanding of the digital, encouraging the use of the computer as a tool maker and showing its aesthetic and conceptual potentials in the broad range of the arts. 
+Throughout this course, we will engage with the intersections of critical software development, art and design practice, and contemporary visual culture. We will leverage web based platforms a as canvas to critique contemporary web culture and interfaces. This class aspires to lay the foundation for a deeper understanding of the digital, encouraging the use of the computer as a tool maker and showing its aesthetic and conceptual potentials in the broad range of the arts. 
 
 
 ## LEARNING OUTCOMES
@@ -34,20 +34,18 @@ cultural and medial topics.
 and data-visualizing medium
 
 ## ASSIGNMENTS
-Students are responsible for weekly coding assignments (individual and group), plus a
+Students are responsible for bi-weekly blog posts, three term projects, and a
 culminating project at the end of the term. The final project will be scaffolded during the
-semester into several intermediary and accumulating assignments and/or versions. Students will
-be asked to write an application. First, an idea will be developed, and then students will draft a 
-process plan. Finally, students will draft, test and execute the code for their final project.
+semester build off of the prior projects. Students will be asked to write an application. First, an idea will be developed, and then students will draft a process plan. Finally, students will draft, test and execute the code for their final project.
 Students are encouraged to use weekly assignments to think through and practice aspects of the
-final project. Class participation will be based on attendance, diligent reading and practice, and
-active participation in all class activities. 
+final project. Class participation will be based on attendance,reading and practice, and
+active participation in class activities. 
 
 ## ATTENDANCE
 Students must not miss more than 4 classes over the course of the semester. Doing so will result in a failure. Please come on time to class. If you are late this will alter your participation grade.
 
 ## RULES
-No cellphones in class. No checking personal e-mails, Facebook etc. during class.
+No cellphones in class. Limit checking personal e-mails, Facebook etc. during class.
 
 ## PARTICIPATION
 
@@ -68,8 +66,7 @@ Required Media
 
 #### A - Excellent
 This project is comprehensive and detailed, integrating themes and concepts from discussions,
-lectures and readings, and reflecting critical and technical topics covered in class. Students who
-earn this grade are prepared for class, synthesize course materials and contribute insightfully in
+lectures and readings, and reflecting critical and technical topics covered in class. Students who earn this grade are prepared for class, synthesize course materials and contribute insightfully in
 every class meeting.
 
 #### B - Good
