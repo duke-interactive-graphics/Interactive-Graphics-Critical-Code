@@ -23,16 +23,23 @@ order: 4
 
 ### Art:
 [Creative Applications](http://www.creativeapplications.net/)<br> 
-[Matthew Kenney](https://aahvs.duke.edu/people/profile/matthew-kenney)<br> 
+[Rhizome](http://rhizome.org/)<br> 
 
 ### Theory:
 [E-Flux](http://www.e-flux.com/)<br> 
 [NetTime](http://nettime.org/)<br> 
 
 ### Museums and Galleries: 
-[New Museum](https://www.newmuseum.org/)
-[Bitforms Gallery](http://www.bitforms.com/)
-[New Museum](https://www.newmuseum.org/)
-[New Museum](https://www.newmuseum.org/)
-[New Museum](https://www.newmuseum.org/)
+[New Museum](https://www.newmuseum.org/)<br>
+[Bitforms Gallery](http://www.bitforms.com/)<br>
+[New Museum](https://www.newmuseum.org/)<br>
+[New Museum](https://www.newmuseum.org/)<br>
+[New Museum](https://www.newmuseum.org/)<br>
+
+### Web Art
+[Indirect Flights](http://indirect.flights/)<br>
+[Terrapatters](http://www.terrapattern.com/)<br>
+
+### Artist I Like
+[Golan Levin](http://www.flong.com/)
 

@@ -95,5 +95,8 @@ Getting Started with p5.js: Making Interactive Graphics in JavaScript and Proces
 
 <img src="{{ "/images/books/speaking-code.jpg" | prepend: site.baseurl }}{{ img }}" alt="" width="20%">
 
-Getting Started with Processing by Casey Reas and Ben Fry. O'Reilly / MAKE, 2010
-FORM+CODE in Design, Art, and Architecture by Casey Reas and Chandler McWilliams. Princeton Architectural Press, 2010
+Speaking Code, Coding as Aesthetic and Political Expression by By Geoff Cox and Alex McLean. MIT Press, 2010
+
+<img src="{{ "/images/books/digital-art.jpg" | prepend: site.baseurl }}{{ img }}" alt="" width="20%">
+
+Digital Art by Christiane Paul. Thames & Hudson, 2003
