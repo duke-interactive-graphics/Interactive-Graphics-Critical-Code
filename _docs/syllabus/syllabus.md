@@ -22,14 +22,14 @@ Throughout this course, we will engage with the intersections of critical softwa
 After completing this course, students will be able to effectively:
 
 1. Produce applications and programs in the P5.js and Processing programming language (or similar languages).
-2. Explain elementary concepts in computer programming such as data types, operators,
+2. Use and understand concepts in computer programming such as data types, operators,
 control structures, and functions.
 3. Demonstrate problem-solving skills relating to the design and execution of coding
 projects.
 4. Participate in current debates on critical coding such as open source, networking, and
 graphics.
-5. Recognize, deconstruct and analyze existing computational projects exploring social,
-cultural and medial topics.
+5. Recognize, deconstruct and analyze existing computational projects exploring social and 
+cultural topics.
 6. Use coding as an expressive, scholarly, and meaningfully rich interpretive, interactive
 and data-visualizing medium
 

@@ -42,7 +42,7 @@ ___
 
 * **Homework** (Due Jan 24):
     * **Code**: Algorithm as art
-    * **Reading**: [Paragraphs on Conceptual Art](http://www.corner-college.com/udb/cproVozeFxParagraphs_on_Conceptual_Art._Sol_leWitt.pdf)
+    * **Reading**: 
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 * **Homework** (Due Jan 24):
     * Code: Algorithm as art
-    * Reading: [I'm an inline-style link](http://www.corner-college.com/udb/cproVozeFxParagraphs_on_Conceptual_Art._Sol_leWitt.pdf)
+    * Reading: [I'm an inline-style link]
 
 ### Week 5 Algorithm as Aesthetic Design (cont.):
 * **Class** (Jan 31): 
