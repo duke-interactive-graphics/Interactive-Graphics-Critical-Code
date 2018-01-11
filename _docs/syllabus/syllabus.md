@@ -7,8 +7,8 @@ order: 1
 ISS 294L - Interactive Graphics: Critical Code, Spring 2018<br>
 Duke University Computational Media Arts and Cultures<br>
 Instructor Matthew Kenney (office hour 243A Bay 12, Tuesday, 2pm)<br>
-Tuesday and Thursday, 9:00 pm - 11:50 pm<br>
-Smith Warehouse Bay 12<br>
+Monday and Wednesday, 11:45 am - 1:00 pm<br>
+Emergence Lab, Smith Warehouse Bay 10<br>
 
 
 ## OVERVIEW
@@ -21,7 +21,7 @@ Throughout this course, we will engage with the intersections of critical softwa
 ## LEARNING OUTCOMES
 After completing this course, students will be able to effectively:
 
-1. Produce simple programs in the Processing programming language (or similar language).
+1. Produce applications and programs in the P5.js and Processing programming language (or similar languages).
 2. Explain elementary concepts in computer programming such as data types, operators,
 control structures, and functions.
 3. Demonstrate problem-solving skills relating to the design and execution of coding
@@ -36,8 +36,7 @@ and data-visualizing medium
 ## ASSIGNMENTS
 Students are responsible for bi-weekly blog posts, three term projects, and a
 culminating project at the end of the term. The final project will be scaffolded during the
-semester build off of the prior projects. Students will be asked to write an application. First, an idea will be developed, and then students will draft a process plan. Finally, students will draft, test and execute the code for their final project.
-Students are encouraged to use weekly assignments to think through and practice aspects of the
+semester build off of the prior projects. Students will be asked to write an application. Students will draft, test and execute the code for their final project. Students are encouraged to use weekly assignments to think through and practice aspects of the
 final project. Class participation will be based on attendance,reading and practice, and
 active participation in class activities. 
 
@@ -49,8 +48,7 @@ No cellphones in class. Limit checking personal e-mails, Facebook etc. during cl
 
 ## PARTICIPATION
 
-Participation is important. Ask questions, make comments, participate in the group critiques. Respect the rules above, be on time. Let us know ahead of time if you can't make it to class. Use the workshops to learn something. Don't be distracted. Talk to us if there are any problems.
-Required Media
+Participation is important. Ask questions, make comments, participate in the group critiques. Respect the rules above, be on time. Let us know ahead of time if you can't make it to class. 
 
 ## Evaluation
 
