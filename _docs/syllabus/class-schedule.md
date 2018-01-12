@@ -18,8 +18,9 @@ ___
     * Computer Setup and Intro To GitHub
 
 * **Homework** (Due Jan 17):
-    * Make your first GitHub repository
-    * Push code
+    * Sign Up for Github
+    * Download a Code Editor
+    * Download p5.js
 
 ### Week 2: Hello World, Introduction to Creative Coding:
 * **Class** (Jan 17): 
@@ -31,10 +32,11 @@ ___
 * **Homework** (Due Jan 24):
     * **Blog Post**: What's out there?
     * **Code**: P5.js Hello World post
+    * **Code**: Push your first code
 
 ### Week 3 Hello World, Introduction to Creative Coding:
 * **Class** (Jan 24): 
-    * Lecture: Introduction to the Creative Coding landscape
+    * Lecture: Introduction to the Creative Coding landscape (cont.)
     * Discussion: What's out there? Presentations
 
 * **Workshop** (Jan 26):
@@ -42,7 +44,6 @@ ___
 
 * **Homework** (Due Jan 24):
     * **Code**: Algorithm as art
-    * **Reading**: 
 
 ___
 
@@ -58,12 +59,10 @@ ___
 
 * **Homework** (Due Jan 24):
     * Code: Algorithm as art
-    * Reading: [I'm an inline-style link]
 
 ### Week 5 Algorithm as Aesthetic Design (cont.):
 * **Class** (Jan 31): 
-    * Lecture: A history of Code and Art
-    * Reading:
+    * Lecture: A history of Code and Art (cont.)
 
 * **Workshop** (Feb 2):
     * Loops, Iteration, Control Structures, Arrays
