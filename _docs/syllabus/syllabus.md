@@ -7,7 +7,7 @@ order: 1
 ISS 294L - Interactive Graphics: Critical Code, Spring 2018<br>
 Duke University Computational Media Arts and Cultures<br>
 Instructor Matthew Kenney (office hour 243A Bay 12, Tuesday, 2pm)<br>
-Monday and Wednesday, 11:45 am - 1:00 pm<br>
+Wednesday and Friday, 11:45 am - 1:00 pm<br>
 Emergence Lab, Smith Warehouse Bay 10<br>
 
 
