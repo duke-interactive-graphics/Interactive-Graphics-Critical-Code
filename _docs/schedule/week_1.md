@@ -34,15 +34,13 @@ While we will not be using python until later in the course, we will need "pytho
 
 ### Working Directory for our Projects
 Getting use to using the terminal is an extremely important skill for developers. The terminal is  like your computer, but without a visual interface. It allows you to quickly navigate your computer, make directories and files, and launch applications. On a Mac, your terminal is located in Applications --> Utilities--> Terminal.app.
-
-Follow the terminal tutorial to get a sense of how to move about and make directories. Check the terminal command cheat sheet if you need help with commands.
   
-   * Task: Make a directory on your desktop from terminal. Make a file called "README.md"
+   * Task: Open terminal and try out a few commands 
 
 ### A Github Account
 Github is a place to store and keep track of code and is an important tool for anyone developing projects. It allows developers to keep track of versions of their work, create new versions (branches) to try out new ideas, and share code among a team. It’s also a social network to connect with other developers and collaborate on projects. Github is a great place to find new projects and repositories and share yours with the world.
   
-  * Task: Create a [Github](https://github.com/) account. Follow the Github tutorial to push your first README.md file to GitHub.
+  * Task: Create a [Github](https://github.com/) account. 
 
 ### Download the P5.js libraries
 Well start this semester by learning p5js. As such we'll need a copy of the libraries locally on our computer. 
