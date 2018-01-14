@@ -32,9 +32,6 @@ order: 4
 ### Museums and Galleries: 
 [New Museum](https://www.newmuseum.org/)<br>
 [Bitforms Gallery](http://www.bitforms.com/)<br>
-[New Museum](https://www.newmuseum.org/)<br>
-[New Museum](https://www.newmuseum.org/)<br>
-[New Museum](https://www.newmuseum.org/)<br>
 
 ### Web Art
 [Indirect Flights](http://indirect.flights/)<br>
