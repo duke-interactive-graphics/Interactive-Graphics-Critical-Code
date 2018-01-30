@@ -24,6 +24,8 @@ order: 4
 ### Art:
 [Creative Applications](http://www.creativeapplications.net/)<br> 
 [Rhizome](http://rhizome.org/)<br> 
+[We Make Money Not Art](http://we-make-money-not-art.com/)<br>
+
 
 ### Theory:
 [E-Flux](http://www.e-flux.com/)<br> 
