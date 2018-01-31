@@ -42,16 +42,10 @@ ___
 * **Workshop** (Jan 26):
     * Shapes, Colors, the Grid
 
-### Week 4 Hello World, Introduction to Creative Coding:
-* **Class** (Jan 24): 
-    * Discussion: What's out there? 
-
-* **Workshop** (Jan 26):
-    * Variables and Operations
 __
 
 # Section 2: Algorithm as Aesthetic Design
-### Week 5 Algorithm as Aesthetic Design:
+### Week 4 Algorithm as Aesthetic Design:
 * **Class** (Jan 31): 
     * Presentations
     * Discussion: What's out there? 
@@ -62,24 +56,24 @@ __
 * **Homework** (Due Jan 24):
     * Code: Algorithm as art
 
-### Week 6 Algorithm as Aesthetic Design (cont.):
+### Week 5 Algorithm as Aesthetic Design (cont.):
 * **Class** (Feb 7): 
     * No class
 
 * **Workshop** (Feb 9):
-    * <span style="color:red">In Class Critique </span>
+    * Keyboard and Mouse Input and Events
 
-
-### ￼Week 7 Algorithm as Aesthetic Design (cont.):
+### ￼Week 6 Algorithm as Aesthetic Design (cont.):
 * **Class** (Feb 21): 
     * Lecture: 
 
 * **Workshop** (Feb 23):
-    * Keyboard and Mouse Input and Events
+    * <span style="color:red">In Class Critique </span>
 
+___
 # Section 3: Visualization and Interaction Design as Critical Inquiry
 
-### Week 8 Visualization as Critical Inquiry (cont.): 
+### Week 7 Visualization as Critical Inquiry (cont.): 
 * **Class** (Feb 28): 
    * Lecture: 
 
@@ -87,7 +81,7 @@ __
     * Objects and Classes
    
 
-### Week 9 Visualization as Critical Inquiry (cont.):
+### Week 8 Visualization as Critical Inquiry (cont.):
 * **Class** (March 7): 
     * Integrating Libraries, API's
 
@@ -95,24 +89,23 @@ __
     * <span style="color:red"> In Class Critique </span>
 
 ___
-
 # Section 4: Making it Physical
 
-### Week 10: 
+### Week 9: 
 * **Class** (March 21): 
     * Lecture: 
 
 * **Workshop** (March 23):
     * OSC, Websockets
 
-### Week 11:
+### Week 10:
 * **Class** (March 28): 
     * Lecture: 
 
 * **Workshop** (March 30):
     * 
 
-### Week 12:
+### Week 11:
 * **Class** (April 4): 
     * Lecture: 3D printing as an aesthetic medium
     * Presentations: Making the digital physical
@@ -121,7 +114,7 @@ ___
    * Open Work Session
 
 
-### Week 13:
+### Week 12:
 * **Class** (April 11): 
     * Lecture: Presentation Aesthetics
     * Open Work Session
@@ -130,11 +123,9 @@ ___
     * <span style="color:red"> In Class Critique </span>
 
 ___
-
-
 # Section 5: Final Presentations
 
-### Week 14:
+### Week 13:
 * **Class** (April 18): 
     * Lecture: 
 
@@ -144,7 +135,7 @@ ___
 * **Homework** (Due Jan 24):
     * Code: Algorithm as art
 
-### Week 15:
+### Week 14:
 * **Class** (April 25): 
     * Install and Open Work Session
 
