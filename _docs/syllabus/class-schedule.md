@@ -42,27 +42,19 @@ ___
 * **Workshop** (Jan 26):
     * Shapes, Colors, the Grid
 
-* **Homework** (Due Jan 24):
-    * **Code**: Algorithm as art
-
-___
-
-# Section 2: Algorithm as Aesthetic Design
-
-### Week 4 Visualization as Critical Inquiry:
+### Week 4 Hello World, Introduction to Creative Coding:
 * **Class** (Jan 24): 
-    * Lecture: A history of Code and Art
-    * Discussion: What's out there? Presentations
+    * Discussion: What's out there? 
 
 * **Workshop** (Jan 26):
     * Variables and Operations
+__
 
-* **Homework** (Due Jan 24):
-    * Code: Algorithm as art
-
-### Week 5 Algorithm as Aesthetic Design (cont.):
+# Section 2: Algorithm as Aesthetic Design
+### Week 5 Algorithm as Aesthetic Design:
 * **Class** (Jan 31): 
-    * Lecture: A history of Code and Art (cont.)
+    * Presentations
+    * Discussion: What's out there? 
 
 * **Workshop** (Feb 2):
     * Loops, Iteration, Control Structures, Arrays
@@ -78,16 +70,14 @@ ___
     * <span style="color:red">In Class Critique </span>
 
 
-___
-
-# Section 3: Visualization and Interaction Design as Critical Inquiry
-
-### ￼Week 7 Visualization as Critical Inquiry:
+### ￼Week 7 Algorithm as Aesthetic Design (cont.):
 * **Class** (Feb 21): 
     * Lecture: 
 
 * **Workshop** (Feb 23):
     * Keyboard and Mouse Input and Events
+
+# Section 3: Visualization and Interaction Design as Critical Inquiry
 
 ### Week 8 Visualization as Critical Inquiry (cont.): 
 * **Class** (Feb 28): 

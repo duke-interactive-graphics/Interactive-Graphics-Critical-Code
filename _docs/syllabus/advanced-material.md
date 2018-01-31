@@ -5,18 +5,17 @@ order: 5
 ---
 ___
 
- 
- ### Nature of Code ( http://natureofcode.com )
+## Nature of Code( http://natureofcode.com )
  Nature Of Code goes through vectors, particle systems, cellular automata, autonomous agents and more. The book is in Processing (java) but he also has a Github repo with P5.js examples ( https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js ).
 
- ### Web Frameworks
+##  Web Frameworks
 [Flask](http://flask.pocoo.org/)<br>
 [Django](https://www.djangoproject.com/)<br>
 [Sinatra](http://sinatrarb.com/)<br>
 [Rails](http://rubyonrails.org/)<br>
 [Node.js](https://nodejs.org/en/)<br>
 
-#Machine Learning
+## Machine Learning
 [SciKit-Learn](http://scikit-learn.org/stable/)<br>
 [Keras](https://keras.io/)<br>
 [Tensorflow](https://www.tensorflow.org/)<br>
