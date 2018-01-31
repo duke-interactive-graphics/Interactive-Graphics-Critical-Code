@@ -10,7 +10,7 @@ Algorithmic design is a cornerstone of the interaction of art and computation. A
 # Code Assignment
 We should now have a grasp of basic functions, as well as a handle on how to build out basic p5 drawings.
 
-* Task: Leverage if-statements, for-loops, or arrays to create a piece that employs chance operations. Allow for the code to flexibly output different versions on each refresh. Record the output or export static files. 
+* Task: Leverage if-statements, for-loops to create a piece that employs chance operations. Allow for the code to flexibly output different versions on each refresh. Record the output or export static files. 
 
 # Blog Post
 
