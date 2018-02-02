@@ -63,12 +63,12 @@ order: 4
 [Zimoun](http://www.zimoun.net/)<br>
 [Jacolby Satterwhite](http://jacolby.com/home.html)<br>
 [Saya Woolfalk](http://www.sayawoolfalk.com/)<br>
-[Ryan Trecartin](https://vimeo.com/trecartin)
-[Juliana Huxtable](http://www.reenaspaulings.com/JH.htm)
-[Martine Syms](http://martinesyms.com/)
-[Aleksandra Domanović](http://www.tanyaleighton.com/index.php?pageId=445&l=en)
-[Petra Cortright](https://www.petracortright.com/)
-[Corey Archangel](http://www.coryarcangel.com/)
+[Ryan Trecartin](https://vimeo.com/trecartin)<br>
+[Juliana Huxtable](http://www.reenaspaulings.com/JH.htm)<br>
+[Martine Syms](http://martinesyms.com/)<br>
+[Aleksandra Domanović](http://www.tanyaleighton.com/index.php?pageId=445&l=en)<br>
+[Petra Cortright](https://www.petracortright.com/)<br>
+[Corey Archangel](http://www.coryarcangel.com/)<br>
 
 # Section 2 Links
 
@@ -78,13 +78,13 @@ order: 4
 [Zach Leiberman](http://thesystemis.com/projects/)<br>
 [Addie Wagenknecht](http://www.placesiveneverbeen.com/)<br>
 [Zimoun](http://www.zimoun.net/)<br>
-[Inconvergent](http://img.inconvergent.net/generative/)
-[Petra Cortright](https://www.petracortright.com/)
-[Haroon Mirza](https://www.lissongallery.com/artists/haroon-mirza)
-[Sol Lewitt](http://massmoca.org/sol-lewitt/)
-[Manfred Mohr](http://www.bitforms.com/artists/mohr)
-[Michael Hansmeyer](http://www.michael-hansmeyer.com/)
-[Neri Oxman](http://www.materialecology.com/)
+[Inconvergent](http://img.inconvergent.net/generative/)<br>
+[Petra Cortright](https://www.petracortright.com/)<br>
+[Haroon Mirza](https://www.lissongallery.com/artists/haroon-mirza)<br>
+[Sol Lewitt](http://massmoca.org/sol-lewitt/)<br>
+[Manfred Mohr](http://www.bitforms.com/artists/mohr)<br>
+[Michael Hansmeyer](http://www.michael-hansmeyer.com/)<br>
+[Neri Oxman](http://www.materialecology.com/)<br>
 
 
 
