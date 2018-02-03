@@ -108,9 +108,17 @@ If we consider the for-loop below, we are starting with the variable "i" equalli
 So this for-loop will draw an ellipse 255 times. We can use the "i" variable to add some space between each ellipse by adding that i variable times whatever distance we would like (here 40px) and adding it to the x position of the ellipse.
 
 ```js
-for (var i=0; i < 50; i++){
-      ellipse(10+i*40, 300, 30, 30);
+function setup(){
+   createCanvas(800, 200);
 }
+function draw(){
+  background(0);
+  fill(255, 0, 0);
+  for (var i=0; i < 50; i++){
+    ellipse(10+i*40, 300, 30, 30);
+ }
+}
+
 ```
 
 <div class="container">
@@ -137,10 +145,18 @@ var myp5 = new p5(r, 'lastContainer');
 Similarly, we can "nest" for-loops inside of each other to iterate over them multiple times. Here we have two for-loops and we're iterating over an ellipse with both and shifting each on the x and y position.
 
 ```js
-for (var i=0; i < 50; i++){
+function setup(){
+    createCanvas(800, 200)
+}
+
+function draw(){
+ background(0);
+ fill(255, 0, 0);
+ for (var i=0; i < 50; i++){
     for(var j=0; j < 50; j++){
       ellipse(10+i*40, 0+j*40, 30, 30);
     }
+  }
 }
 ```
 
