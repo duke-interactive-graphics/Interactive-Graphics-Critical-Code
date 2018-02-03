@@ -1,5 +1,5 @@
 ---
-title: Week 7- Visualization
+title: Week 7- Algorithms
 category: Schedule
 order: 7
 ---

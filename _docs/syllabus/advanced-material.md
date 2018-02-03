@@ -1,7 +1,7 @@
 ---
 title: Advanced Materials
 category: Syllabus
-order: 5
+order: 6
 ---
 ___
 

@@ -1,26 +1,8 @@
 ---
-title: External Links
+title: Artist Links
 category: Syllabus
-order: 4
+order: 5
 ---
-# General Links
-
-### Web Platforms:
-[P5.js](https://p5js.org/reference/)<br> 
-[Processing.js](http://processingjs.org/)<br> 
-[Three.js](https://threejs.org/)<br> 
-[D3.js](https://d3js.org/)<br> 
-[Tone.js](https://tonejs.github.io/)<br> 
-
-### Application Platforms:
-[Processing](https://processing.org/)<br>
-[Open Frameworks](http://openframeworks.cc/)<br>
-[MaxMSP](https://cycling74.com/products/max//)<br>
-[Supercollider](http://supercollider.github.io/)<br>
-
-### Hardware:
-[Arduino](https://www.arduino.cc/)<br>
-[Raspberry Pi](https://www.raspberrypi.org/)
 
 ### Art:
 [Creative Applications](http://www.creativeapplications.net/)<br> 
@@ -35,24 +17,21 @@ order: 4
 [New Museum](https://www.newmuseum.org/)<br>
 [Bitforms Gallery](http://www.bitforms.com/)<br>
 
-### Web Art
-[Indirect Flights](http://indirect.flights/)<br>
-[Terrapatters](http://www.terrapattern.com/)<br>
-
-
-
-
-
 # Section 1 Links
 
 ### What is Art?
 
-#### I Know What My Art Is About:
 [Jeff Koons](https://www.youtube.com/watch?v=XTnPq0uIUds)<br>
-[Wolfgang Laib](https://www.youtube.com/watch?v=e-_92MYcANk)
 
-#### What Is My Art About?:
-[Hillary Llyod](https://www.youtube.com/watch?v=IZA16b8E07s)
+>"What art is able to do, it's about acceptance. People talk about aesthetics and all of these different things, but what art really is is a vehicle of acceptance. First you accept yourself and eventually the highest state, is the acceptance of others."
+
+[Wolfgang Laib](https://www.youtube.com/watch?v=e-_92MYcANk)<br>
+
+>"The essence of all your experience is coming into an artwork, it is as simple as that and also as complicated as that."
+
+[Hillary Llyod](https://www.youtube.com/watch?v=IZA16b8E07s)<br>
+
+>"There's this idea about art that you should understand it, or that you should appreciate it, or that, you know, you should "get it", and all of those other things and I don't think its like that at all. I don't know, I don't think I know what the works are saying. Can you answer it and I think I'll see if I agree" 
 
 ### Artist I Like
 [Golan Levin](http://www.flong.com/)<br>
@@ -85,8 +64,3 @@ order: 4
 [Manfred Mohr](http://www.bitforms.com/artists/mohr)<br>
 [Michael Hansmeyer](http://www.michael-hansmeyer.com/)<br>
 [Neri Oxman](http://www.materialecology.com/)<br>
-
-
-
-
-

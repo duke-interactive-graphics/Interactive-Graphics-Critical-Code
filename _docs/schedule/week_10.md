@@ -1,5 +1,5 @@
 ---
-title: Week 10- Making It Physical
+title: Week 10- Visualization
 category: Schedule
 order: 10
 ---
