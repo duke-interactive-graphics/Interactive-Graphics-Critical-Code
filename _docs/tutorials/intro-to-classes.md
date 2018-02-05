@@ -1,7 +1,7 @@
 ---
 title: Introduction to Classess
 category: Tutorials
-order: 6
+order: 7
 ---
 <script src="{{ "/scripts/p5.min.js" | prepend: site.baseurl }}"></script>
 
