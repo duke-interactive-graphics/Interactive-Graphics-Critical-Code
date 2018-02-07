@@ -9,6 +9,8 @@ order: 7
 
 Classes are a way to encapsulate functionality within objects and a way to address object individually. Class allow us to flexibly put objects onto the screen and encapsulate functionality within those objects.
 
+Here we have three balls, a blue yellow and green ball. Each ball is a product of the Ball class. We define the Ball class with our own variables and functionalities. That's to say that instead of using pre-made object like rect or ellipse, we're creating our own.
+
 ```js
 let ball1;
 let ball2;

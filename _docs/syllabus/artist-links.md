@@ -8,6 +8,10 @@ order: 5
 [Creative Applications](http://www.creativeapplications.net/)<br> 
 [Rhizome](http://rhizome.org/)<br> 
 [We Make Money Not Art](http://we-make-money-not-art.com/)<br>
+[Neural](http://neural.it/)<br>
+[Furtherfield](https://www.furtherfield.org/)<br>
+[EE Journal](http://eejournal.no/)<br>
+
 
 ### Theory:
 [E-Flux](http://www.e-flux.com/)<br> 
