@@ -1,5 +1,5 @@
 ---
-title: Week 4- Hello World
+title: Week 4 - Hello World
 category: Schedule
 order: 4
 ---
