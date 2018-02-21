@@ -5,7 +5,7 @@ order: 8
 ---
 
 # Intro
-Data visualization can help artists tell stories and construct interactive narratives that drive new media pieces. In this section, we'll take a look at artist using data to drive pieces, and discuss how data can drive chance, narrative, and/or interaction. We'll learn how to work with static CSV and XML files, external API's, and websockets for real-time data visualization.
+Data visualization can help artists tell stories and construct interactive narratives that drive new media pieces. In this section, we'll take a look at artist using data to drive pieces, and discuss how data can drive chance, narrative, and/or interaction. We'll learn how to work with static CSV and XML files, external API's, and web sockets for real-time data visualization.
 
 # Code Assignment
 We should now understand how to read cvs and xml files into our sketches for visualization, as well how to show basic representations of those data points in our sketches.

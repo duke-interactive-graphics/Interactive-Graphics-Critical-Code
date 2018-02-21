@@ -37,7 +37,9 @@ order: 5
 
 >"There's this idea about art that you should understand it, or that you should appreciate it, or that, you know, you should "get it", and all of those other things and I don't think its like that at all. I don't know, I don't think I know what the works are saying. Can you answer it and I think I'll see if I agree" 
 
-### Artist I Like
+# Section 1 Links
+
+### Artists Using Algorithms
 [Golan Levin](http://www.flong.com/)<br>
 [Casey Reas](http://reas.com/)<br>
 [Zach Leiberman](http://thesystemis.com/projects/)<br>
@@ -68,3 +70,18 @@ order: 5
 [Manfred Mohr](http://www.bitforms.com/artists/mohr)<br>
 [Michael Hansmeyer](http://www.michael-hansmeyer.com/)<br>
 [Neri Oxman](http://www.materialecology.com/)<br>
+
+
+# Section 3 Links
+
+### Artists Using Data
+[Pitch Interactive](http://pitchinteractive.com/)<br>
+[Office for Creative Research](https://ocr.nyc/)<br>
+[Jer Thorp](http://blog.blprnt.com/)<br>
+[Fathom](https://fathom.info/)<br>
+[Ben Fry](http://benfry.com/)<br>
+[Nicholas Felton](http://feltron.com/)<br>
+[Periscopic](http://www.periscopic.com/)<br>
+[Aaron Kolbin](http://www.aaronkoblin.com/)<br>
+[Lev Manovich](http://manovich.net/)<br>
+[Martin Wattenberg](http://www.bewitched.com/)<br>
