@@ -12,7 +12,6 @@ order: 5
 [Furtherfield](https://www.furtherfield.org/)<br>
 [EE Journal](http://eejournal.no/)<br>
 
-
 ### Theory:
 [E-Flux](http://www.e-flux.com/)<br> 
 [NetTime](http://nettime.org/)<br> 
@@ -39,7 +38,7 @@ order: 5
 
 # Section 1 Links
 
-### Artists Using Algorithms
+### Artists - Hello World
 [Golan Levin](http://www.flong.com/)<br>
 [Casey Reas](http://reas.com/)<br>
 [Zach Leiberman](http://thesystemis.com/projects/)<br>
