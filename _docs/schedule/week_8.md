@@ -10,7 +10,9 @@ Data visualization can help artists tell stories and construct interactive narra
 # Code Assignment
 We should now understand how to read cvs and xml files into our sketches for visualization, as well how to show basic representations of those data points in our sketches.
 
-* Task: Leverage if-statements, for-loops to create a piece that employs chance operations. Allow for the code to flexibly output different versions on each refresh. Record the output or export static files. 
+* Task 1: Read a CVS file of data into your sketch and create a visualization. Display the data leveraging classes and arrays, build in some user interaction.
+
+* Task 2: Find a data source you would like to work with in upcoming assignments. Create a preliminary storyboard of a narrative or interaction you would like to construct with this data
 
 # Blog Post
 
