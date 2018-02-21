@@ -4,7 +4,7 @@ category: Syllabus
 order: 5
 ---
 
-### Art:
+### Art Blogs:
 [Creative Applications](http://www.creativeapplications.net/)<br> 
 [Rhizome](http://rhizome.org/)<br> 
 [We Make Money Not Art](http://we-make-money-not-art.com/)<br>
@@ -20,7 +20,6 @@ order: 5
 [New Museum](https://www.newmuseum.org/)<br>
 [Bitforms Gallery](http://www.bitforms.com/)<br>
 
-# Section 1 Links
 
 ### What is Art?
 
