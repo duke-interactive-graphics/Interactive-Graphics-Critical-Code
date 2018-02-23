@@ -1,10 +1,10 @@
 ---
 title: Visualizing Data
 category: Tutorials
-order: 3
+order: 8
 ---
 
-<p>Making things move</p>
+<p>Visualizing Data</p>
 
 ```js
 // An Array of Bubble objects
