@@ -12,6 +12,9 @@ We should now have Node.js and Express.js installed on our computers, and have a
 
 * Task: Work with your partner to use websockets to connect eachothers sketches. Create sketches that leverage these connections to drive the concept of your pieces.
 
+* Task: Prepare one of the works that you have created to this point to be displayed online in our online gallery exhibition. Create a 'GitHub Page' and send me the link to the address.
+
+
 # Blog Post
 
 * Task: Write a short blog post on at least two pieces that use physical computing or connected messaging to drive the concept of thier works. 
