@@ -1,5 +1,5 @@
 ---
-title: Week 12- Making It Physical
+title: Week 12- Connecting Things
 category: Schedule
 order: 12
 ---

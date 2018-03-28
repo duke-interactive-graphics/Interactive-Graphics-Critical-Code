@@ -7,6 +7,7 @@ order: 11
 <p>A Small script using the scene manager library to create a click-through story for data visualization or story telling</p>
 
 <script src="{{ "/scripts/p5.min.js" | prepend: site.baseurl }}"></script>
+<script src={{ "/scripts/p5.min.js" | prepend: site.baseurl }}></script>
 ```js
 var mgr;
 
