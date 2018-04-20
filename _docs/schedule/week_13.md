@@ -4,8 +4,4 @@ category: Schedule
 order: 13
 ---
 
-# Intro
-
-# Code Assignment
-
-# Blog Post
+# **Project Presentation**
