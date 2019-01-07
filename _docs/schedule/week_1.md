@@ -17,13 +17,13 @@ An important part of software development is setting up your environment with th
 ### A Text Editor
 A text editor for coding is a lot like Microsoft Word for writing papers. It allows us to write cleanly formatted code and provides us with additional tools to develop our projects. In this class, I'll let you use whatever text editor you feel most comfortable with. Please keep in mind that your text editor is the main way you’ll interact with your code and picking a suitable one is important. Here is a list of popular text editors from least to most advanced:
 
-* [Visual Code (beginner)](https://code.visualstudio.com/)
-* [Atom (beginner)](https://atom.io/)
-* [Sublime Text (beginner)](https://www.sublimetext.com/)
+* [Visual Studio Code (easy)](https://code.visualstudio.com/)
+* [Atom (easy)](https://atom.io/)
+* [Sublime Text (easy)](https://www.sublimetext.com/)
 * [Text Mate (medium)](https://macromates.com/)
 * [MacVim (advanced)](http://macvim-dev.github.io/macvim/)
 * [Vim (advanced)](http://www.vim.org/)
-* [Emacs (advanced)](https://www.gnu.org/software/emacs/)
+* [Emacs (i have no life)](https://www.gnu.org/software/emacs/)
 
 Download one of the text editors listed above (I'll be using Visual Code for the remainder of the course).
 

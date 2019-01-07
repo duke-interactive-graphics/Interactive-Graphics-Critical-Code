@@ -4,10 +4,10 @@ category: Syllabus
 order: 1
 ---
 
-ISS 294L - Interactive Graphics: Critical Code, Spring 2018<br>
+ISS 294L - Interactive Graphics: Critical Code, Spring 2019<br>
 Duke University Computational Media Arts and Cultures<br>
-Instructor Matthew Kenney (office hours 243A Bay 12, Tuesday, 2pm-3pm)<br>
-Wednesday and Friday, 11:45 am - 1:00 pm<br>
+Instructor Matthew Kenney (office hours 243A Bay 12, TBD)<br>
+Tuesday and Thursday, 11:45 am - 1:00 pm<br>
 Emergence Lab, Smith Warehouse Bay 10<br>
 
 
@@ -15,33 +15,26 @@ Emergence Lab, Smith Warehouse Bay 10<br>
 Introduction to interactive graphics programming for artists. Explores object-oriented programming via the Processing programming environment as well as historical and theoretical appreciation of interactivity and computer graphics as artistic media. Combines discussions of key concepts from the readings with hands-on Processing projects and critiques. No previous programming experience or Instructor: Staff
 
 ## COURSE DESCRIPTION
-Throughout this course, we will engage with the intersections of critical software development, art and design practice, and contemporary visual culture. We will leverage web based platforms a as canvas to critique contemporary web culture and interfaces. This class aspires to lay the foundation for a deeper understanding of the digital, encouraging the use of the computer as a tool maker and showing its aesthetic and conceptual potentials in the broad range of the arts. 
-
+Throughout this course, we will engage with the intersections of critical software development, art and design practice, and contemporary visual culture. We will leverage web based platforms a as canvas to critique contemporary web culture and interfaces. This class aspires to lay the foundation for a deeper understanding of the digital, encouraging the use of the computer as a tool maker and showing its aesthetic and conceptual potentials in the broad range of the arts. s
 
 ## LEARNING OUTCOMES
 After completing this course, students will be able to effectively:
 
-1. Produce applications and programs in the P5.js and Processing programming language (or similar languages).
-2. Use and understand concepts in computer programming such as data types, operators,
-control structures, and functions.
-3. Demonstrate problem-solving skills relating to the design and execution of coding
-projects.
-4. Participate in current debates on critical coding such as open source, networking, and
-graphics.
-5. Recognize, deconstruct and analyze existing computational projects exploring social and 
-cultural topics.
-6. Use coding as an expressive, scholarly, and meaningfully rich interpretive, interactive
-and data-visualizing medium
+1.	Produce web-based applications in the p5.js (Javascript) programming language and extend projects by incorporating libraries and frameworks
+2.	Demonstrate a strong grasp of historic and current web-based artists practices, and where that practice falls in relation to their current artistic output
+3.	Participate in thoughtful critique of the work developed throughout the semester
+4.	Demonstrate an understanding of coding concepts including classes, arrays, inheritance, and algorithms, and API’s, and backend architecture
+5.	Incorporate themes, language, and theory from the student’s current research and practice into works developed throughout the semester
+6. Participate in current debates on critical coding such as open source, networking, and graphics.
+7. Recognize, deconstruct and analyze existing computational projects exploring social and  cultural topics.
+8.	Install and present work publicly
 
 ## ASSIGNMENTS
 Students are responsible for bi-weekly blog posts, three term projects, and a
-culminating project at the end of the term. The final project will be scaffolded during the
-semester build off of the prior projects. Students will be asked to write an application. Students will draft, test and execute the code for their final project. Students are encouraged to use weekly assignments to think through and practice aspects of the
-final project. Class participation will be based on attendance,reading and practice, and
-active participation in class activities. 
+culminating project at the end of the term. The final project will be scaffolded during the semester build off of the prior projects. Students will be asked to write an application. Students will draft, test and execute the code for their final project. Students are encouraged to use weekly assignments to think through and practice aspects of the final project. Class participation will be based on attendance,reading and practice, and active participation in class activities. 
 
 ## ATTENDANCE
-Students must not miss more than 4 classes over the course of the semester. Doing so will result in a failure. Please come on time to class. If you are late this will alter your participation grade.
+Students must not miss more than 4 classes over the course of the semester. **Doing so will result in a failure.** Please come on time to class. If you are late this will alter your participation grade.
 
 ## RULES
 No cellphones in class. Limit checking personal e-mails, Facebook etc. during class.

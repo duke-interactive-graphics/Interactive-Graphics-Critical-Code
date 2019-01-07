@@ -20,7 +20,6 @@ order: 5
 [New Museum](https://www.newmuseum.org/)<br>
 [Bitforms Gallery](http://www.bitforms.com/)<br>
 
-
 ### What is Art?
 
 [Jeff Koons](https://www.youtube.com/watch?v=XTnPq0uIUds)<br>

@@ -11,7 +11,7 @@ Introduction to interactive graphics programming for artists. Explores object-or
 
 ## Over the course of our semester together we will:
 
-* Learn programming fundamentals and develop a codebase in both p5.js (javascript) and Processing (java).
+* Learn programming fundamentals and develop a codebase in both p5.js (javascript) and ml5.js.
 * •	Develop interactive interfaces through physical computing, computer vision, and audio input.
 * Engage critically with interface design, physical computing, and new media discourse.
 * Develop and expand critical creative practices that engage contemporary technology concepts
@@ -23,4 +23,4 @@ No prerequisites beyond a willingness to work hard, collaborate, learn, tinker, 
 ## Instructor
 
 [Matthew Kenney](https://aahvs.duke.edu/people/profile/matthew-kenney)
-<br/>matthew.kenney@duke.edu<br/>A243 Smith Warehouse, Bay 11<br/>Office Hours: 243A Bay 12, Tuesday, 2pm-3pm
+<br/>matthew.kenney@duke.edu<br/>A243 Smith Warehouse, Bay 11<br/>Office Hours: 243A Bay 12, Time TBD
