@@ -9,6 +9,7 @@ A "Hello, World!" program is a computer program that outputs or displays "Hello,
 
 For our "Hello World" assignment in p5.js, we'll be creating some basic visual output and putting it on the screen. As p5 is meant for  visual display, we'll create a few primitive shapes and add them to the canvas. 
 
+
   * Task: Take the "Hello World" sketch that we created in class and extend it. Play with color, shape, images or text elements to create a visually striking piece. Be prepared to show the class how you've extended the sketch.
 
 # Blog Post

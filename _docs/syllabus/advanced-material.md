@@ -32,6 +32,10 @@ ___
 [Spacy](https://spacy.io/)<br>
 [TextBlob](https://textblob.readthedocs.io/en/dev/)<br>
 
+#Physical Computing
+[Arduino](https://www.arduino.cc/)
+[Raspberry PI](https://www.raspberrypi.org/)
+
 
  
 

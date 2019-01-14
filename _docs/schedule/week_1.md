@@ -41,11 +41,13 @@ Getting use to using the terminal is an extremely important skill for developers
 Github is a place to store and keep track of code and is an important tool for anyone developing projects. It allows developers to keep track of versions of their work, create new versions (branches) to try out new ideas, and share code among a team. It’s also a social network to connect with other developers and collaborate on projects. Github is a great place to find new projects and repositories and share yours with the world.
   
   * Task: Create a [Github](https://github.com/) account. 
+  * Task: Add yourself to the github group
 
 ### Download the P5.js libraries
 Well start this semester by learning p5js. As such we'll need a copy of the libraries locally on our computer. 
   
   * Task: Navigate to [P5.js](https://p5js.org/) website, and download the libraries. Create a new folder inside your working directory called "libraries" and put the p5 libraries inside.
+
 
 
 
