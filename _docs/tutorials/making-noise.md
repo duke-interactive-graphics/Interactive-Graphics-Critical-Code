@@ -1,7 +1,7 @@
 ---
 title: Making Noise
 category: Tutorials
-order: 5
+order: 6
 ---
 <script src="{{ "/scripts/p5.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/scripts/p5.sound.js" | prepend: site.baseurl }}"></script>
