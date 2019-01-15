@@ -1,7 +1,7 @@
 ---
 title: Javascript Structure
 category: Tutorials
-order: 6
+order: 5
 ---
 <script src="{{ "/scripts/p5.min.js" | prepend: site.baseurl }}"></script>
 
@@ -93,19 +93,19 @@ var myp5 = new p5(s, 'otherContainer');
 
 ### For-Loop
 
-For statements are a bit more obtuse, but if you follow the initial logic, everything should fall into place. For-loops work by "looping" over a variable, until that variable reaches a certain value. As you can see a for loop is comprised of three initial smaller statements: `var i=0; i < 255; i++`
+For statements are a bit more obtuse, but if you follow the initial logic, everything should fall into place. For-loops work by "looping" over a variable, until that variable reaches a certain value. As you can see a for loop is comprised of three initial smaller statements: `var i=0; i < 50; i++`
 
 Lets break down these statements so that we understand them individually.
 
  We'll start by defining a variable. Traditionally, this variable is "i", but ultimately it can be anything you want.  Here, we'll set an integer variable "i" equal to 0.
 `var i=0`
 
-The next two statements act much like an "if" statement. Here if "i" is less than 255, then "i++". What is `i++`? `i++` is a shortened syntax for "add 1 to the value" or i+1. So we're saying, "if i is less than 255, add 1 to i"
-`i < 255; i++`
+The next two statements act much like an "if" statement. Here if "i" is less than 50, then "i++". What is `i++`? `i++` is a shortened syntax for "add 1 to the value" or i+1. So we're saying, "if i is less than 50, add 1 to i"
+`i < 50; i++`
 
-If we consider the for-loop below, we are starting with the variable "i" equalling zero, and the code inside of the for-loop will be executed every time until "i" is equal to or greater than 255.
+If we consider the for-loop below, we are starting with the variable "i" equalling zero, and the code inside of the for-loop will be executed every time until "i" is equal to or greater than 50.
 
-So this for-loop will draw an ellipse 255 times. We can use the "i" variable to add some space between each ellipse by adding that i variable times whatever distance we would like (here 40px) and adding it to the x position of the ellipse.
+So this for-loop will draw an ellipse 50 times. We can use the "i" variable to add some space between each ellipse by adding that i variable times whatever distance we would like (here 40px) and adding it to the x position of the ellipse.
 
 ```js
 function setup(){
