@@ -16,5 +16,4 @@ Things to consider for your first critique:
 2. What artworks is this piece in conversation with
 3. What interactions have you developed for this piece and why?
 4. What issues were your presented with when building this piece
-5. 
 
