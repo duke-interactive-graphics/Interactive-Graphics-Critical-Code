@@ -13,6 +13,9 @@ For our "Hello World" assignment in p5.js, we'll be creating some basic visual o
   * Task: Take the "Hello World" sketch that we created in class and extend it. Play with color, shape, images or text elements to create a visually striking piece. Be prepared to show the class how you've extended the sketch.
 
 # Blog Post
-  * Task: Write a short blog post in Microsoft Word on at least two pieces that you’re interested in. What drew you to them? What do you find interesting about them? How are users expected to interact with the pieces? Download a few pictures of each piece and include links. No more than a paragraph for each piece.
+  * Task: Write a short blog post in Microsoft Word on at least two additional pieces that you’re interested in. What drew you to them? What do you find interesting about them? How are users expected to interact with the pieces? Download a few pictures of each piece and include links. No more than a paragraph for each piece. **Put this post on GitHub**
+
+# Review
+  * Task: Review the Javascript Structure tutorial on our website. Understand if-statements, for-loops, nested loops: (http://dukeinteractivegraphics.club/tutorials/coding-structure/)
 
 
