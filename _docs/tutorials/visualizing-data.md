@@ -6,13 +6,13 @@ order: 8
 
 <p>Visualizing Data</p>
 
- <p>Here is what the CSV looks like:
- x,y,diameter,name
- 160,103,43.19838,Happy
- 372,137,52.42526,Sad
- 273,235,61.14072,Joyous
- 121,179,44.758068,Melancholy
- </p>
+ <p>Here is what the CSV looks like:</p>
+| x   | y   | diamete | name   |            |
+|-----|-----|---------|--------|------------|
+| 160 | 103 | 43      | 19838  | Happy      |
+| 372 | 137 | 52      | 42526  | Sad        |
+| 273 | 235 | 61      | 14072  | Joyous     |
+| 121 | 179 | 44      | 758068 | Melancholy |
 
 ```js
 // An Array of Bubble objects
