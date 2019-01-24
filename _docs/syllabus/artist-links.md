@@ -34,6 +34,10 @@ order: 5
 
 >"There's this idea about art that you should understand it, or that you should appreciate it, or that, you know, you should "get it", and all of those other things and I don't think its like that at all. I don't know, I don't think I know what the works are saying. Can you answer it and I think I'll see if I agree" 
 
+### New Media Interviews
+[Simeon Barclay](https://www.youtube.com/watch?v=51dRIyv3qM8)
+[Cécile B. Evans](https://www.youtube.com/watch?v=-UBWJ4FYphU)
+
 # Section 1 Links
 
 ### Artists - Hello World
