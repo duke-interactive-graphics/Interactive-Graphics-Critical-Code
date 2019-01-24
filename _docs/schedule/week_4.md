@@ -9,7 +9,7 @@ order: 4
 2. Watch the videos listed in the section 'What is Art?'. Explore other interviews, ideas, writings, or works listed below, or ones that you've found on your own time. How are other artists approaching their work? What viewpoint are they bringing? How does your work reconsile with thier thoughts and processes?
 
 
-#Task: 
+# Task: 
 Take the answers from the questions above and rework your sketch. What is at the core of these ideas. What is the essence of what you’re trying to create? What feeling or emotions are in the sketch? Take these ideas and abstract them, expand them.
 
 
