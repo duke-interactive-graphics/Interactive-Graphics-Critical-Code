@@ -4,16 +4,13 @@ category: Schedule
 order: 4
 ---
 
-# **Project Presentation**
+# Blog Post
+1. Think about what you’ve created and why you’ve created it. Who is the audience? What does it say to the viewer? What colors did you use and why? What images? What instances in your life experience have brought you to this work? 
+2. Watch the videos listed in the section 'What is Art?'. Explore other interviews, ideas, writings, or works listed below, or ones that you've found on your own time. How are other artists approaching their work? What viewpoint are they bringing? How does your work reconsile with thier thoughts and processes?
 
-Class presentations and critique. Please come prepared to present. Your projects should be functional and attached to a unique URL. The code for the project should be loaded into your text editor. Please prepare a short statement about your piece to present to the class.
 
-Your project should be in working order! There will be no debugging during critique time. I will hold an extra office hours the day before each critique to ensure that projects are working properly. 
+#Task: 
+Take the answers from the questions above and rework your sketch. What is at the core of these ideas. What is the essence of what you’re trying to create? What feeling or emotions are in the sketch? Take these ideas and abstract them, expand them.
 
-Things to consider for your first critique:
 
-1. What inspired you to make this piece
-2. What artworks is this piece in conversation with
-3. What interactions have you developed for this piece and why?
-4. What issues were your presented with when building this piece
 
