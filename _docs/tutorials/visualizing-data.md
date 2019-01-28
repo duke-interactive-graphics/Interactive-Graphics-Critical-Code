@@ -7,7 +7,8 @@ order: 8
 <p>Visualizing Data</p>
 
  <p>Here is what the CSV looks like:</p>
-| x   | y   | diamete | name   |            |
+
+| x   | y   | diameter| name   |emotino     |
 |-----|-----|---------|--------|------------|
 | 160 | 103 | 43      | 19838  | Happy      |
 | 372 | 137 | 52      | 42526  | Sad        |

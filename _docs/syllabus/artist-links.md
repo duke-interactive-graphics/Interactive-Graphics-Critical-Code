@@ -37,6 +37,8 @@ order: 5
 ### New Media Interviews
 [Simeon Barclay](https://www.youtube.com/watch?v=51dRIyv3qM8)
 [Cécile B. Evans](https://www.youtube.com/watch?v=-UBWJ4FYphU)
+[Casey Reas](https://www.youtube.com/watch?v=lu51j9V-ti0)
+[Ryan Trecartin](https://www.youtube.com/watch?v=lu51j9V-ti0)
 
 # Section 1 Links
 
