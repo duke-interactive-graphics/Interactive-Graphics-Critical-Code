@@ -6,11 +6,11 @@ order: 15
 
 # About:
 
-#### Setup: 8am - 5pm
+#### Setup: 8am - 4:30pm
 
-#### Opening: May 2nd 5pm 
+#### Opening: April 25th 6-9pm
 
-#### Where: Smith Warehouse Bay 9
+#### Where: Room A288 Smith Warehouse Bay 12
 
 <br>
 
