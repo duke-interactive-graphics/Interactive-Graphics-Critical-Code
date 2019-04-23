@@ -1,5 +1,5 @@
 ---
-title: Week 14- Final Project Proposals
+title: Week 14- Final Project Writeup
 category: Schedule
 order: 14
 ---
@@ -20,7 +20,7 @@ Replace with a description of the interactive dimensions of your project.  How d
 
 ### Extension 
 
-Do you intend to extend a piece that you've created throughout the semester? What elements are you adding or subtracting from the previous piece? How do these extensions/subtractions further develop the conceptual and interactive elements of your work?
+How did you extend a piece that you've created throughout the semester? What elements  did you add or subtract from the previous piece? How do these extensions/subtractions further develop the conceptual and interactive elements of your work?
 
 <img src="{{ "/images/art/previous_piece.png" | prepend: site.baseurl }}{{ img }}" alt="">
 
